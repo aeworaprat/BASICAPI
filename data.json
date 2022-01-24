@@ -1,0 +1,26 @@
+[
+    {
+        "title" : "What is Lime?",
+        "subtitle" : "A lime (from French lime, from Arabic līma, from Persian līmū,)[1] is a citrus fruit ...",
+        "image_url" : "https://cdn.pixabay.com/photo/2017/07/07/12/31/lime-2481346_960_720.jpg",
+        "detail" : "           lime, any of several species and hybrids of trees and shrubs in the rue family (Rutaceae), widely grown in tropical and subtropical areas for their edible acidic fruits. The Persian lime (Citrus ×latifolia) is one of the most common commercial varieties, though the smaller key lime, or Mexican lime (C. ×aurantifolia), is also economically important in many places. The lime fruit is a key ingredient in certain pickles and chutneys, and lime juice is used to flavour drinks, food, and confections. Limeade and other lime-flavoured drinks have a flavour and bouquet quite distinct from those made from lemons. The juice may be concentrated, dried, frozen, or canned. Lime oil, from the peel of the fruit, is processed mainly in the West Indies. Citrate of lime and citric acid are also prepared from the fruit."
+    },
+    {
+        "title" : "What is Strawberry",
+        "subtitle" : "strawberry, (genus Fragaria), genus of more than 20 species of flowering plants ...",
+        "image_url" : "https://cdn.pixabay.com/photo/2016/02/04/22/45/strawberry-1180048_960_720.jpg",
+        "detail" : "           strawberry, (genus Fragaria), genus of more than 20 species of flowering plants in the rose family (Rosaceae) and their edible fruit. Strawberries are native to the temperate regions of the Northern Hemisphere, and cultivated varieties are widely grown throughout the world. The fruits are rich in vitamin C and are commonly eaten fresh as a dessert fruit, are used as a pastry or pie filling, and may be preserved in many ways. Strawberry shortcake—made of fresh strawberries, sponge cake, and whipped cream—is a traditional American dessert."
+    },
+    {
+        "title" : "What is Coconut",
+        "subtitle" : "coconut, edible fruit of the coconut palm (Cocos nucifera) ...",
+        "image_url" : "https://cdn.pixabay.com/photo/2017/09/04/17/18/coconut-2714753_960_720.jpg",
+        "detail" : "           coconut, edible fruit of the coconut palm (Cocos nucifera), a tree of the palm family (Arecaceae). Coconuts probably originated somewhere in Indo-Malaya and are one of the most important crops of the tropics. Coconut flesh is high in fat and can be dried or eaten fresh or processed into coconut milk or coconut oil. The liquid of the nut, known as coconut water, is used in beverages."
+    },
+    {
+        "title" : "What is Banana",
+        "subtitle" : "banana, fruit of the genus Musa, of the family Musaceae ...",
+        "image_url" : "https://cdn.pixabay.com/photo/2016/01/03/17/59/bananas-1119790_960_720.jpg",
+        "detail" : "           banana, fruit of the genus Musa, of the family Musaceae, one of the most important fruit crops of the world. The banana is grown in the tropics, and, though it is most widely consumed in those regions, it is valued worldwide for its flavour, nutritional value, and availability throughout the year. Cavendish, or dessert, bananas are most commonly eaten fresh, though they may be fried or mashed and chilled in pies or puddings. They may also be used to flavour muffins, cakes, or breads. Cooking varieties, or plantains, are starchy rather than sweet and are grown extensively as a staple food source in tropical regions; they are cooked when ripe or immature. A ripe fruit contains as much as 22 percent of carbohydrate and is high in dietary fibre, potassium, manganese, and vitamins B6 and C."
+    }
+]
